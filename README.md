@@ -1,4 +1,4 @@
-### Weather ApP
+### Weather APP
 
-#Built with SwitftUI and openweathermap API
+# Built with SwitftUI and openweathermap API
 
